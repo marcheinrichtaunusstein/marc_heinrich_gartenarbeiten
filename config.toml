@@ -1,0 +1,76 @@
+baseurl = "http://www.example.com"
+title = "Marc Heinrich - Gartenarbeiten"
+theme = "hugo-coder"
+languagecode = "de"
+defaultcontentlanguage = "de"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Marc Heinrich"
+  info = "Gartenarbeiten in Wiesbaden und Umgebung"
+  description = "Marc Heinricht - Gartenarbeiten"
+  keywords = "business,garten,landschaft,hausmeister"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+ customCSS = ["css/custom.css"]
+ # customSCSS = ["scss/custom.scss"]
+ # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Telefon"
+  icon = "fa fa-phone fa-2x"
+  weight = 1
+  url = "tel:+491732853427"
+[[params.social]]
+  name = "WhatsApp"
+  icon = "fa fa-whatsapp fa-2x"
+  weight = 1
+  url = "https://api.whatsapp.com/send?phone=+491732853427"
+[[params.social]]
+  name = "E-Mail"
+  icon = "fa fa-envelope fa-2x"
+  weight = 1
+  url = "mailto:marc@heinrich.de"
+
+# Menu links
+[[menu.main]]
+  name = "Leistungen"
+  weight = 1
+  url  = "leistungen/"
+[[menu.main]]
+  name = "Kontakt"
+  weight = 2
+  url  = "kontakt/"
+[[menu.main]]
+  name = "Datenschutz"
+  weight = 3
+  url = "datenschutz/"
+[[menu.main]]
+  name = "Impressum"
+  weight = 4
+  url = "impressum/"
