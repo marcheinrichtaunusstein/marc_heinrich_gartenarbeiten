@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "Marc Heinrich"
-  info = "Gartenarbeiten in Wiesbaden und Umgebung"
+  info = "Gartenarbeiten in Taunusstein und Umgebung"
   description = "Marc Heinricht - Gartenarbeiten"
   keywords = "business,garten,landschaft,hausmeister"
   avatarurl = "images/avatar.jpg"
@@ -55,7 +55,7 @@ disqusShortname = "yourdiscussshortname"
   name = "E-Mail"
   icon = "fa fa-envelope fa-2x"
   weight = 1
-  url = "mailto:marc@heinrich.de"
+  url = "mailto:marc1983.mh78@gmail.com"
 
 # Menu links
 [[menu.main]]

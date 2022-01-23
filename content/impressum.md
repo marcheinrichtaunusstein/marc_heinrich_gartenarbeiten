@@ -3,18 +3,16 @@
 
 Marc Heinrich  
 Gartenarbeiten  
-[[Straße]] [[Hausnummer]]  
-[[PLZ]] [[Ort]]
+Röderweg 9o  
+65232 Taunusstein
 
 Telefonnummer: [+ 49 173 - 285 3427](tel:+491732853427)  
-E-Mail: [marc-heinrich@gmail.com](mailto:marc-heinrich@gmail.com)
+E-Mail: [marc1983.mh78@gmail.com](marc1983.mh78@gmail.com)
 
-USt-IdNr:
+USt-IdNr: DE 346 734 342
 
-Berufshaftpflichtversicherung:
-
-
-
-
-
-ToDo: https://www.firma.de/firmengruendung/impressum-einzelunternehmen-sollten-auf-diese-angaben-achten-mit-muster-pdf/
+Berufshaftpflichtversicherung:  
+Rhion Versicherung AG  
+Postfach 101249  
+41412 Neuss  
+Geltungsraum der Versicherung: Deutschland  
