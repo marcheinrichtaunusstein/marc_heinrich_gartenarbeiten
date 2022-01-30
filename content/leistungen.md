@@ -9,6 +9,8 @@
 - Heckenschnitt
 - Bewässerungssysteme
 - Grünschnittentsorgung
+- Kleinere Baggerarbeiten
+- Rollrasen verlegen
 
 ### Vorher-Nachher
 
