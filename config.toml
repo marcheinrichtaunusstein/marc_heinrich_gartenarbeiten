@@ -67,10 +67,14 @@ disqusShortname = "yourdiscussshortname"
   weight = 2
   url  = "kontakt/"
 [[menu.main]]
-  name = "Datenschutz"
+  name = "Empfehlungen"
   weight = 3
+  url  = "empfehlungen/"
+[[menu.main]]
+  name = "Datenschutz"
+  weight = 4
   url = "datenschutz/"
 [[menu.main]]
   name = "Impressum"
-  weight = 4
+  weight = 5
   url = "impressum/"
