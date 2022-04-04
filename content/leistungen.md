@@ -12,6 +12,12 @@
 - Kleinere Baggerarbeiten
 - Rollrasen verlegen
 
+### Projekt Mauer
+[![](../images/IMG-20220326-WA0000.jpg)](../images/IMG-20220326-WA0000.jpg)
+[![](../images/IMG-20220327-WA0000.jpg)](../images/IMG-20220327-WA0000.jpg)
+[![](../images/IMG-20220327-WA0008.jpg)](../images/IMG-20220327-WA0008.jpg)
+
+
 ### Vorher-Nachher
 
 [![](../images/20220119_111533.jpg)](../images/20220119_111533.jpg)
