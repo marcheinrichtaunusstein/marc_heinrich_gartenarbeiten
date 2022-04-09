@@ -12,14 +12,15 @@
 - Kleinere Baggerarbeiten
 - Rollrasen verlegen
 
-### Projekt Mauer
+### Projekt Weinbergmauer
 [![](../images/IMG-20220326-WA0000.jpg)](../images/IMG-20220326-WA0000.jpg)
 [![](../images/IMG-20220327-WA0000.jpg)](../images/IMG-20220327-WA0000.jpg)
 [![](../images/IMG-20220327-WA0008.jpg)](../images/IMG-20220327-WA0008.jpg)
-
+[![](../images/IMG-20220409-WA0001.jpg)](../images/IMG-20220409-WA0001.jpg)
+[![](../images/IMG-20220409-WA0002.jpg)](../images/IMG-20220409-WA0002.jpg)
+[![](../images/IMG-20220409-WA0003.jpg)](../images/IMG-20220409-WA0003.jpg)
 
 ### Vorher-Nachher
-
 [![](../images/20220119_111533.jpg)](../images/20220119_111533.jpg)
 [![](../images/20220119_111651.jpg)](../images/20220119_111651.jpg)
 [![](../images/20220119_111753.jpg)](../images/20220119_111753.jpg)
@@ -32,7 +33,6 @@
 [![](../images/20220313_085342.jpg)](../images/20220313_085342.jpg)
 
 ### Sonstige Bilder
-
 [![](../images/IMG-20211211-WA0002.jpg)](../images/IMG-20211211-WA0002.jpg)
 [![](../images/IMG-20211211-WA0001.jpg)](../images/IMG-20211211-WA0001.jpg)
 [![](../images/IMG-20210927-WA0005.jpg)](../images/IMG-20210927-WA0005.jpg)
