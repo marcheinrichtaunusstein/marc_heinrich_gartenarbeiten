@@ -12,6 +12,12 @@
 - Kleinere Baggerarbeiten
 - Rollrasen verlegen
 
+### Hangsicherung - Treppen und Whirlpoolplattform
+[![](../images/VideoCapture_20220529-073357.jpg)](../images/VideoCapture_20220529-073357.jpg)
+[![](../images/VideoCapture_20220529-073458.jpg)](../images/VideoCapture_20220529-073458.jpg)
+[![](../images/VideoCapture_20220529-073519.jpg)](../images/VideoCapture_20220529-073519.jpg)
+[![](../images/VideoCapture_20220529-073601.jpg)](../images/VideoCapture_20220529-073601.jpg)
+
 ### Projekt Weinbergmauer
 [![](../images/IMG-20220326-WA0000.jpg)](../images/IMG-20220326-WA0000.jpg)
 [![](../images/IMG-20220327-WA0000.jpg)](../images/IMG-20220327-WA0000.jpg)
