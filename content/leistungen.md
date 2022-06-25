@@ -12,6 +12,9 @@
 - Kleinere Baggerarbeiten
 - Rollrasen verlegen
 
+### Neue Fotos (25. Juni 2022)
+[![](../images/20220618_133253.jpg)](../images/20220618_133253.jpg)
+
 ### Hangsicherung - Treppen und Whirlpoolplattform
 [![](../images/VideoCapture_20220529-073357.jpg)](../images/VideoCapture_20220529-073357.jpg)
 [![](../images/VideoCapture_20220529-073458.jpg)](../images/VideoCapture_20220529-073458.jpg)
