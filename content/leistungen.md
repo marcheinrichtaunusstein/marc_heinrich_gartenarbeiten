@@ -12,7 +12,7 @@
 - Kleinere Baggerarbeiten
 - Rollrasen verlegen
 
-### Parkplatzerweiterung (ink. Mauer) [18. September 2022]
+### Parkplatzerweiterung (inkl. Mauer) [18. September 2022]
 [![](../images/20220819_170539.jpg)](../images/20220819_170539.jpg)
 [![](../images/20220822_172506.jpg)](../images/20220822_172506.jpg)
 [![](../images/20220826_182701.jpg)](../images/20220826_182701.jpg)
